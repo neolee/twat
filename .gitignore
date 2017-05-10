@@ -1,0 +1,17 @@
+.DS_Store
+
+data/
+tmp
+
+golang/bin
+golang/pkg
+
+clojure/target
+clojure/classes
+clojure/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
