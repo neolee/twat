@@ -9,6 +9,7 @@
                  [criterium "0.4.4"]
                  [org.clojure/math.combinatorics "0.1.4"]
                  [org.clojure/math.numeric-tower "0.0.4"]
+                 [org.clojure/data.csv "0.1.3"]
                  ]
   :plugins [[lein-clean-m2 "0.1.2"]]
   :jvm-opts ["-Xmx1g"])
