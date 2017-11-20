@@ -10,5 +10,7 @@
                  [org.clojure/math.combinatorics "0.1.4"]
                  [org.clojure/math.numeric-tower "0.0.4"]
                  [org.clojure/data.csv "0.1.4"]
+                 [org.clojure/java.jdbc "0.7.3"]
+                 [org.xerial/sqlite-jdbc "3.21.0"]
                  ]
   :resource-paths ["resources"])
